@@ -2,6 +2,10 @@
 
 The goal of the project is to read, write, update and delete the file.
 
+**Used technologies:** Express
+
+---
+
 * Install dependencies with `npm install`
 * Run the express server with `npm start`
 * Open your browser in `localhost:3000` and try the example REST endpoints.
@@ -15,5 +19,3 @@ Used endpoints:
 	  * Body format: text
  * `localhost:3000/delete` (DELETE) - delete file
 
-
-Used technologies: express
